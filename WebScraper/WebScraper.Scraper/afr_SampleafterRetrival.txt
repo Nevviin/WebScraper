@@ -1,0 +1,41 @@
+﻿<h3 class="story__headline">
+            <a href="https://www.afr.com/markets/banks-lift-asx-to-best-week-in-more-than-two-years-20190207-h1b039">
+                <span> ASX has best week in over two years, $A suffers </span>
+            </a>
+        </h3>
+        
+            <ul class="byline">
+     
+                <!-- If Asset's byline is not empty, show byline. Otherwise show related author list.-->
+                              
+                              <li class="author" itemprop="author creator" itemscope="" itemtype="http://schema.org/Person">
+                                    
+                                        <a href="william-mcinnes-h10fjy.html">William McInnes</a>
+     
+                              </li>
+            </ul>
+        
+            <p>The sharemarket advanced to its best week since November 2016, as solid earnings, the banking royal commission and RBA pushed stocks higher. </p>
+     
+	 
+	 ==================second 
+	 
+	 
+        <h3 class="story__headline">
+            <a href="https://www.afr.com/personal-finance/shares/banking-royal-commission-why-smsfs-need-to-prepare-for-unexpected-20190207-h1ayrp">
+                <span> Why SMSFs need to prepare for unexpected </span>
+            </a>
+        </h3>
+        
+            <ul class="byline">
+        
+                <!-- If Asset's byline is not empty, show byline. Otherwise show related author list.-->
+                              
+                              <li class="author" itemprop="author creator" itemscope="" itemtype="http://schema.org/Person">
+                                    
+                                        <a href="john-wasiliev-j7gez.html">John Wasiliev</a>
+                              </li>
+            </ul>
+        
+            <p>It's important to have an investment strategy that deals with events like the royal commission and possible changes to dividend imputation rules, writes John Wasiliev who answers your questions on superannuation.</p>
+        

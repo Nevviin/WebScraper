@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WebScraperDBModelStoreContainer" CdmEntityContainer="WebScraperDBEntities1">
+    <EntitySetMapping Name="BuisnessHeadLines">
+      <EntityTypeMapping TypeName="WebScraperDBModel.BuisnessHeadLine">
+        <MappingFragment StoreEntitySet="BuisnessHeadLines">
+          <ScalarProperty Name="PublishedDate" ColumnName="PublishedDate" />
+          <ScalarProperty Name="NewsSource" ColumnName="NewsSource" />
+          <ScalarProperty Name="Url" ColumnName="Url" />
+          <ScalarProperty Name="Heading" ColumnName="Heading" />
+          <ScalarProperty Name="ContentBrief" ColumnName="ContentBrief" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
